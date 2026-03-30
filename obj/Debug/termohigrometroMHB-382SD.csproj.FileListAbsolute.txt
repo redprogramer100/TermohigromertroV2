@@ -1,0 +1,34 @@
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\bin\Debug\termohigrometroMHB-382SD.exe.config
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\bin\Debug\termohigrometroMHB-382SD.exe
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\bin\Debug\termohigrometroMHB-382SD.pdb
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.csproj.AssemblyReference.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB_382SD.Form1.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB_382SD.Properties.Resources.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.csproj.GenerateResource.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.csproj.CoreCompileInputs.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.exe
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.pdb
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\bin\Debug\termohigrometroMHB-382SD.exe.config
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\bin\Debug\termohigrometroMHB-382SD.exe
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\bin\Debug\termohigrometroMHB-382SD.pdb
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.csproj.AssemblyReference.cache
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB_382SD.Form1.resources
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB_382SD.Properties.Resources.resources
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.csproj.GenerateResource.cache
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.csproj.CoreCompileInputs.cache
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.exe
+C:\Users\gcabrera.DOM\Desktop\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB-382SD.pdb
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB_382SD.config.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometroMHB-382SD\obj\Debug\termohigrometroMHB_382SD.graf.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometroMHB-382SD.csproj.AssemblyReference.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometroMHB_382SD.config.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometroMHB_382SD.Form1.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometroMHB_382SD.graf.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometroMHB-382SD.csproj.GenerateResource.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometroMHB-382SD.csproj.CoreCompileInputs.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\bin\Debug\termohigrometro_RTHP_V1.exe.config
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\bin\Debug\termohigrometro_RTHP_V1.exe
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\bin\Debug\termohigrometro_RTHP_V1.pdb
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometro_RTHP_V1.Properties.Resources.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometro_RTHP_V1.exe
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro RTHP-V1\obj\Debug\termohigrometro_RTHP_V1.pdb

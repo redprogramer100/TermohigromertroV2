@@ -1,0 +1,12 @@
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\bin\Debug\termohigrometro_RTHP_V1.exe.config
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\bin\Debug\termohigrometro_RTHP_V1.exe
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\bin\Debug\termohigrometro_RTHP_V1.pdb
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.csproj.AssemblyReference.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.config.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.Form1.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.graf.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.Properties.Resources.resources
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.csproj.GenerateResource.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.csproj.CoreCompileInputs.cache
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.exe
+C:\Users\JOSE LUIS TARQUI\Documents\Proyecto de grado\termohigrometro_RTHP_V1\obj\Debug\termohigrometro_RTHP_V1.pdb
